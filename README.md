@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there I'm Daksh Chauhan 👋
+I'm a high school student in the UAE and I'm looking to pursue Software Engineering. Trying to take things one step at a time and enjoying life 😄
 
-<!--
-**Krissh-C/Krissh-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Here's some things about me:
 
-Here are some ideas to get you started:
+- 🌱 I'm learning Python from school
+- 🌱 And I'm also taking online courses to improve my skill set
+- 🔭 My current project is running macOS on a ThinkPad T490
+- 🤔 I'm looking to move on to bootcamps and such to have a strong foundation before I graduate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some other stuff:
+- 🏠 Born and brought up in Bangalore. Been living in the UAE since I was 13.
+- 📫 You can contact me on daksh.krissh@gmail.com
+- 😄 My pronouns are He/Him
+- 💬 My go to quote is: "Road work ahead? Uh yeah, I sure hope it does" ~ Drew Gooden
+- ⚡ Fun fact: Let's say I'm uhhh... (quickly googles it) swish
