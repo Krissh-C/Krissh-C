@@ -11,6 +11,7 @@ I'm a high school student in the UAE and I'm looking to pursue Software Engineer
 Some other stuff:
 - 🏠 Born and brought up in Bangalore. Been living in the UAE since I was 13.
 - 📫 You can contact me on daksh.krissh@gmail.com
+- 💬 My nickname is Krissh (based on the 2006 movie. My sister came up with this) and to be completely honest I'd prefer you to call me that lol
 - 😄 My pronouns are He/Him
 - 💬 My go to quote is: "Road work ahead? Uh yeah, I sure hope it does" ~ Drew Gooden
 - ⚡ Fun fact: Let's say I'm uhhh... (quickly googles it) swish
