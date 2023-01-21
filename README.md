@@ -15,3 +15,5 @@ Some other stuff:
 - 😄 My pronouns are He/Him
 - 💬 My go to quote is: "Road work ahead? Uh yeah, I sure hope it does" ~ Drew Gooden
 - ⚡ Fun fact: Let's say I'm uhhh... lavender
+
+[![Daksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krissh-C&show_icons=true&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
