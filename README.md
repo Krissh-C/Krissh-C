@@ -5,7 +5,7 @@ I'm a high school student in the UAE and I'm looking to pursue Software Engineer
 
 - 🌱 I'm learning Python from school
 - 🌱 And I'm also taking online courses to improve my skill set
-- 🔭 My current project is running macOS on a ThinkPad [T490](https://github.com/Krissh-C/T490-macOS), [X1C2](https://github.com/Krissh-C/X1C2-macOS) and [X1C7](https://github.com/Krissh-C/X1C7-macOS)
+- 🔭 My current project is running macOS on a ThinkPad [X1C2](https://github.com/Krissh-C/X1C2-macOS), ~~[T490](https://github.com/Krissh-C/T490-macOS)~~ and ~~[X1C7](https://github.com/Krissh-C/X1C7-macOS)~~ (sunsetted but working on them for personal use)
 - 🤔 I'm looking to move on to bootcamps and such to have a strong foundation before I graduate
 
 Some other stuff:
